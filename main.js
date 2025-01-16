@@ -3,7 +3,7 @@ var playerMap = new Map();
 
 // Variables to keep track of constants 
 const maxPlayersOnCourt = 5;
-const numQuarters = 4;
+const numQuarters = 2;
 
 // Variables to track state throughout the game
 var currentQuarter = 0;
